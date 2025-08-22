@@ -1,0 +1,1 @@
+[print(f"{caracter}") for caracter in 'python']
