@@ -1,0 +1,1 @@
+[print(f"7 x {multiplicador} = {multiplicador*7}") for multiplicador in range(1,11)]
